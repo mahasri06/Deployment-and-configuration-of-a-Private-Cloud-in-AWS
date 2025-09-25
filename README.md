@@ -1,6 +1,6 @@
 ## Ex.4 Deployment-and-configuration-of-a-Private-Cloud-in-AWS
-Name : Beatrice Thomas <br>
-Reg no: 212223110005
+Name : Mahasri P <br>
+Reg no: 212223100029
 ## Aim:
 To set up of a Private Cloud  in AWS.
 <br>       
